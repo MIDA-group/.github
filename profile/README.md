@@ -1,4 +1,4 @@
-## Methods for Image Data Analysis
+## [Methods for Image Data Analysis](http://www.it.uu.se/research/visual_information_and_interaction/research/mida)
 
 Research in Computerized Image Analysis at [Uppsala University](https://www.uu.se/en), Sweden
 
